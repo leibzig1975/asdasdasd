@@ -1,0 +1,12 @@
+["BLOODY"] = {
+	"BLOOD_FX_CRATE";
+	"BLOOD_FX_CRATE";
+};
+["TESTXD"] = {
+	"BLOOD_FX_CRATE";
+	"BLOOD_FX_CRATE";
+};
+["1KPLAYERS"] = {
+	"BLOOD_FX_CRATE";
+	"BULLET_COLOR_CRATE";
+};
