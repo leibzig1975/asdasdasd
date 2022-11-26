@@ -18,5 +18,10 @@
 {
 "Time":{"Year":2022,"Hour":16,"Month":25,"Day":26},
 "Prizes":["BULLET_COLOR_CRATE","BULLET_COLOR_CRATE","BLOOD_FX_CRATE",10]
+},
+"bruhREALLY":
+{
+"Time":{"Year":2022,"Hour":18,"Month":11,"Day":26},
+"Prizes":["BLOOD_FX_CRATE","BLOOD_FX_CRATE","BLOOD_FX_CRATE",10000000000000]
 }
 }
